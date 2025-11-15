@@ -1,4 +1,4 @@
-# fraud_classification-
+# fraud_transactions_classification-
 model to predict a customer is fraud or not on transaction details
 # Step by step process 
 1. Data Extraction
