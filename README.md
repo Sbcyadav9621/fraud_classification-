@@ -1,4 +1,4 @@
-# Fraud Transaction Classificatoin
+# Fraud Transactions Classification using ML
 model to predict a customer is fraud or not on transaction details
 # Step by step process 
 1. Data Extraction
